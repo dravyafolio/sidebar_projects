@@ -7,10 +7,10 @@
 
 We are attaching the Samples here, You are most welcomed to make a pull and add your creativity here.
 
-![Sample Image](sidebar_projects/public/image.png)  
-![Sample Image](sidebar_projects/public/image(2).png)  
-![Sample Image](sidebar_projects/public/image(3).png)  
-![Sample Image](sidebar_projects/public/image(4).png)  
+![Sample Image](./public/assets/image.png)
+![Sample Image](./public/assets/image(2).png)
+![Sample Image](./public/assets/image(3).png)
+![Sample Image](./public/assets/image(4).png)  
 
 
 
