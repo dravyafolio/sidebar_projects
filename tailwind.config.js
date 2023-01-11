@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./src/**/*.{html,js}"],
+  content: ["./src/**/*.{html,js,jsx}"],
   theme: {
     extend: {
       colors: {
@@ -9,7 +9,12 @@ module.exports = {
         'tertiary': '#F2F2F2',
         "light-purple": "rgba(255,255,255,0.17)",
         "dark-purple":"#081A51",
-      }
+      },
+      boxShadow:{
+        myShadow1:'4.1px -5px 0 0 rgb(17,24,29)',
+        myShadow2:'-4.1px -5px 0 0 rgb(17,24,29)',
+
+      },
     },
     screens:{
       sm:'480px',
